@@ -1,0 +1,14 @@
+C:\Users\f.hashemi\source\repos\GettingStartedLib2\GettingStartedLib2\bin\Debug\GettingStartedLib2.dll.config
+C:\Users\f.hashemi\source\repos\GettingStartedLib2\GettingStartedLib2\bin\Debug\GettingStartedLib2.dll
+C:\Users\f.hashemi\source\repos\GettingStartedLib2\GettingStartedLib2\bin\Debug\GettingStartedLib2.pdb
+C:\Users\f.hashemi\source\repos\GettingStartedLib2\GettingStartedLib2\obj\Debug\GettingStartedLib2.csproj.AssemblyReference.cache
+C:\Users\f.hashemi\source\repos\GettingStartedLib2\GettingStartedLib2\obj\Debug\GettingStartedLib2.csproj.CoreCompileInputs.cache
+C:\Users\f.hashemi\source\repos\GettingStartedLib2\GettingStartedLib2\obj\Debug\GettingStartedLib2.dll
+C:\Users\f.hashemi\source\repos\GettingStartedLib2\GettingStartedLib2\obj\Debug\GettingStartedLib2.pdb
+C:\Users\amazing\source\repos\IT'S WCF\GettingStartedLib2\GettingStartedLib2\bin\Debug\GettingStartedLib2.dll.config
+C:\Users\amazing\source\repos\IT'S WCF\GettingStartedLib2\GettingStartedLib2\bin\Debug\GettingStartedLib2.dll
+C:\Users\amazing\source\repos\IT'S WCF\GettingStartedLib2\GettingStartedLib2\bin\Debug\GettingStartedLib2.pdb
+C:\Users\amazing\source\repos\IT'S WCF\GettingStartedLib2\GettingStartedLib2\obj\Debug\GettingStartedLib2.csproj.AssemblyReference.cache
+C:\Users\amazing\source\repos\IT'S WCF\GettingStartedLib2\GettingStartedLib2\obj\Debug\GettingStartedLib2.csproj.CoreCompileInputs.cache
+C:\Users\amazing\source\repos\IT'S WCF\GettingStartedLib2\GettingStartedLib2\obj\Debug\GettingStartedLib2.dll
+C:\Users\amazing\source\repos\IT'S WCF\GettingStartedLib2\GettingStartedLib2\obj\Debug\GettingStartedLib2.pdb
